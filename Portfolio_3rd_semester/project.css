@@ -1,0 +1,231 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+.main-project-container {
+    width: 100%;
+    background-color: #183D3D;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-container {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 80%;
+    min-height: 60vh;
+    background-color: #062f35;
+    box-shadow: -1px 1px 10px black;
+    transition: 0.2s ease-in;
+    display: inline-block;
+    
+}
+
+.project-container .head-name{
+    margin: 0 auto;
+
+}
+.head-name{
+    text-align: center;
+    margin: 0px auto;
+    margin-left: 45%;
+    font-size: 2rem;
+    text-shadow: 1px -1px 4px black;
+    
+}
+
+.head-name h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(22, 109, 90);
+}
+
+.card-container {
+    box-sizing: border-box;
+    padding: 5px;
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 20px;
+
+}
+.card-1,
+.card-2,
+.card-3,
+.card-4,
+.card-5,
+.card-6
+ {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    width:30%;
+    background-color: #0b4946;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px black;
+    transition: .2s ease;
+}
+
+.title-1 {
+    text-align: center;
+}
+
+.des-1 {
+    text-align: center;
+}
+
+.btn-1 {
+    text-align: center;
+}
+
+.img-1 img {
+    width: 100%;
+    box-shadow: -1px 1px 4px #1f2e3d;
+}
+
+.img-2 img {
+    width: 100%;
+    box-shadow: -1px 1px 4px #1f2e3d;
+}
+
+.title-2 {
+    text-align: center;
+}
+
+.des-2 {
+    text-align: center;
+}
+
+.btn-2 {
+    text-align: center;
+}
+
+.img-3 img {
+    width: 100%;
+    box-shadow: -1px 1px 4px #1f2e3d;
+}
+
+.title-3 {
+    text-align: center;
+}
+
+.des-3 {
+    text-align: center;
+}
+
+.btn-3 {
+    text-align: center;
+}
+
+.img-4 img {
+    width: 100%;
+    box-shadow: -1px 1px 4px #1f2e3d;
+}
+
+.title-4 {
+    text-align: center;
+}
+
+.des-4 {
+    text-align: center;
+}
+
+.btn-4 {
+    text-align: center;
+}
+
+.img-5 img {
+    width: 100%;
+    box-shadow: -1px 1px 4px #1f2e3d;
+}
+
+.title-5 {
+    text-align: center;
+}
+
+.des-5 {
+    text-align: center;
+}
+
+.btn-5 {
+    text-align: center;
+}
+
+.img-6 img {
+    width: 100%;
+    box-shadow: -1px 1px 4px #1f2e3d;
+}
+
+.title-6 {
+    text-align: center;
+}
+
+.des-6 {
+    text-align: center;
+}
+
+.btn-6 {
+    text-align: center;
+}
+
+
+img{
+    border-radius: 15px;
+}
+.hh2{
+    font-family: 'IM Fell French Canon SC', serif;
+    color: rgb(68, 173, 165);
+    text-shadow: 1px 1px 10px solid black;
+}
+
+.pp2{
+    font-family: 'Lilita One', cursive;
+    color: rgb(41, 138, 131);
+}
+
+.hh2, .pp2, .button{
+    margin:3px 0px;
+
+}
+
+.button{
+    padding: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    border-radius: 15px;
+    font-weight:bold;
+    background-color: #0fa19a;
+    color: #183D3D;
+    transition: 0.3s ease-in;
+
+}
+
+.card-1:hover,
+.card-2:hover,
+.card-3:hover,
+.card-4:hover,
+.card-5:hover,
+.card-6:hover{
+    background-color: #031e22;
+    transition: .3s ease-out;
+    transform: translateY(-10px);
+    box-shadow: 1px -1px 15px #1596a7;
+}
+
+.button:hover{
+    background-color: #0b5a56;
+    box-shadow: 1px -1px 5px #1596a7;
+    transition: 0.2s ease-out;
+    color: antiquewhite;
+}
+
+
+
