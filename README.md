@@ -21,4 +21,4 @@ The Cricket Score Management System is a Java Swing-based application developed 
    git clone https://github.com/your-username/cricket-score-management.git
 
 ## Main Folder 
--> [https://github.com/ByteCrister/NEUB-Projects-From-_22_/tree/main/CricketScoreManagement_Final_3rd_semester]
+-> [Cricket Score Management](https://github.com/ByteCrister/NEUB-Projects-From-_22_/tree/main/CricketScoreManagement_Final_3rd_semester)
