@@ -22,3 +22,7 @@ The Cricket Score Management System is a Java Swing-based application developed 
 
 ## Main Folder 
 -> [Cricket Score Management](https://github.com/ByteCrister/NEUB-Projects-From-_22_/tree/main/CricketScoreManagement_Final_3rd_semester)
+
+
+## Video Demo 
+- [Video Demo Of Cricket Score Management]()
